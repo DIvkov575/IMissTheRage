@@ -1,7 +1,7 @@
 # IMissTheRage
 ---
-![](https://media.tenor.com/JG-4APCpFkgAAAAi/angry-emoji-angry.gif)
 
+![](https://media.tenor.com/JG-4APCpFkgAAAAi/angry-emoji-angry.gif)
 
 Are you raging? Do you wish writing code was easier?
 
@@ -23,4 +23,6 @@ Some Notes
 - Rage threshold is adjusted with 'threshold' variable
 - Requires the Arduino_LSM6DSOX library (installable via arduino IDE)
 - Arduino_LSM6DSOX readGyroscope and readAccelerometer seem to swapped, hence readGyroscope usage
+
+---
 ![](https://i.pinimg.com/originals/3b/f6/73/3bf673ac817110e15958ce675e914ce0.png)
