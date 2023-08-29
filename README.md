@@ -1,6 +1,8 @@
 # IMissTheRage
 ---
-![](https://tenor.com/bNGNx.gif)
+![](https://media.tenor.com/JG-4APCpFkgAAAAi/angry-emoji-angry.gif)]
+![](https://i.pinimg.com/originals/3b/f6/73/3bf673ac817110e15958ce675e914ce0.png)
+
 
 Are you raging? Do you wish writing code was easier?
 
