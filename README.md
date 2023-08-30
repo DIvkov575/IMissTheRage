@@ -1,7 +1,9 @@
 # IMissTheRage
 ---
 
-![](https://media.tenor.com/JG-4APCpFkgAAAAi/angry-emoji-angry.gif)
+https://github.com/DIvkov575/IMissTheRage/assets/79413560/92baf38e-baf1-4f3e-a1be-ab982c30c9c7
+
+
 
 Are you raging? Do you wish writing code was easier?
 
@@ -25,4 +27,5 @@ Some Notes
 - Arduino_LSM6DSOX readGyroscope and readAccelerometer seem to swapped, hence readGyroscope usage
 
 ---
+![](https://media.tenor.com/JG-4APCpFkgAAAAi/angry-emoji-angry.gif)
 ![](https://i.pinimg.com/originals/3b/f6/73/3bf673ac817110e15958ce675e914ce0.png)
