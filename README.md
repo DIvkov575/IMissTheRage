@@ -24,8 +24,7 @@ Some Notes
 
 - Rage threshold is adjusted with 'threshold' variable
 - Requires the Arduino_LSM6DSOX library (installable via arduino IDE)
-- Arduino_LSM6DSOX readGyroscope and readAccelerometer seem to swapped, hence readGyroscope usage
+- Arduino_LSM6DSOX readGyroscope and readAccelerometer seem to swapped, which why I use readGyroscope usage for accelerometer data
 
 ---
 ![](https://media.tenor.com/JG-4APCpFkgAAAAi/angry-emoji-angry.gif)
-![](https://i.pinimg.com/originals/3b/f6/73/3bf673ac817110e15958ce675e914ce0.png)
