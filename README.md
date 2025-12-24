@@ -7,8 +7,6 @@ https://github.com/DIvkov575/IMissTheRage/assets/79413560/92baf38e-baf1-4f3e-a1b
 
 Are you raging? Do you wish writing code was easier?
 
-Cry No More!
-
 With <b>IMissTheRage</b> everytime you slam you desk out of frustration, <b>IMissTheRage</b> simply 'undos' your most recent changes!!!
 
 ---
